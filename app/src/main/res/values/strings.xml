@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZMDB</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_genre">Movie Genre</string>
+    <string name="movie_overview">Movie Overview</string>
+    <string name="movie_score">10.0</string>
+    <string name="img_dsc_movie_poster">image of movie poster</string>
+    <string name="tv_cast">Cast</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="about_me">About Me</string>
+    <string name="my_name">Fauzan Pahlawan</string>
+    <string name="my_email">fauzan.pahlawan@gmail.com</string>
+    <string name="movie_release_date">Movie Release Date</string>
+</resources>
